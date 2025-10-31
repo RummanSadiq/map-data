@@ -1,0 +1,4 @@
+/data/businesses.geojson
+  Cache-Control: public, max-age=300, must-revalidate
+  Access-Control-Allow-Origin: *
+  Content-Type: application/geo+json; charset=utf-8
