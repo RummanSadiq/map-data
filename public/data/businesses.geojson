@@ -1,4 +1,25 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          13.7041057
+        ]
+      },
+      "properties": {
+        "Departamento": "San Salvador",
+        "Categoria": "Restaurantes",
+        "Direccion": "Mall del Sol, Carretera Troncal del Norte, Kil?metro 51, Tejutla, Chalatenango.",
+        "Instagram": "https://www.instagram.com/lapamparestaurantes?igsh=enZqd3RxZjIwdGdz",
+        "Facebook": "https://www.facebook.com/lapamparestaurantes/",
+        "Twitter": "https://x.com/pizzahutsv",
+        "Website": "https://restauranteslapampa.com/",
+        "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    }
+  ]
 }
