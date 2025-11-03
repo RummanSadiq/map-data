@@ -16,6 +16,10 @@
         "Categoria": "Tourism",
         "SubCategoria": "Hotel",
         "Direccion": "El Tunco",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -34,6 +38,10 @@
         "Categoria": "Tourism",
         "SubCategoria": "Gym",
         "Direccion": "El Tunco",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -53,6 +61,9 @@
         "SubCategoria": "Nail studio",
         "Direccion": "El Tunco",
         "Instagram": "https://www.instagram.com/nails.bythebeach/",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -72,6 +83,9 @@
         "SubCategoria": "Spa ",
         "Direccion": "El Tunco",
         "Instagram": "https://www.instagram.com/emunasv_/",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -91,6 +105,9 @@
         "SubCategoria": "Tooth gems",
         "Direccion": "El Tunco",
         "Instagram": "https://www.instagram.com/blingbites.gems/",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -111,6 +128,8 @@
         "Direccion": "El Tunco",
         "Instagram": "https://www.instagram.com/hostalcaracol/?hl=es-la",
         "Facebook": "https://www.facebook.com/people/Hostal-Caracol/61564531689847/",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -131,6 +150,7 @@
         "Direccion": "El Tunco ",
         "Instagram": "https://www.instagram.com/pargos.eltunco/?hl=es",
         "Facebook": "https://www.facebook.com/pargoseltunco/?locale=es_LA",
+        "Twitter": "",
         "Website": "https://restaurantepargos.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -152,6 +172,8 @@
         "Direccion": "El Tunco",
         "Instagram": "https://www.instagram.com/papayasurfboards/?hl=es",
         "Facebook": "https://www.facebook.com/jedasurf/?locale=es_LA",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -171,6 +193,9 @@
         "SubCategoria": "Cafe",
         "Direccion": "El Tunco",
         "Instagram": "https://www.instagram.com/pointbreakcafe/",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -190,6 +215,9 @@
         "SubCategoria": "Cell phone repair shop",
         "Direccion": "El Tunco",
         "Instagram": "https://www.instagram.com/hzomobilephone",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -209,6 +237,8 @@
         "SubCategoria": "Shaved ice shop",
         "Direccion": "El Tunco",
         "Instagram": "https://www.instagram.com/hawaiice.sv/",
+        "Facebook": "",
+        "Twitter": "",
         "Website": "https://www.hawaiiceshavedice.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -229,6 +259,9 @@
         "SubCategoria": "Salvadorean Surf Brand & Design Studio",
         "Direccion": "El Tunco",
         "Instagram": "https://www.instagram.com/yaguahsurf/",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -247,6 +280,10 @@
         "Categoria": "Food & Beverage",
         "SubCategoria": "Mexican food",
         "Direccion": "El Tunco",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -267,6 +304,7 @@
         "Direccion": "El Tunco",
         "Instagram": "https://www.instagram.com/tengo.todomarket/",
         "Facebook": "https://www.facebook.com/TenGoSV",
+        "Twitter": "",
         "Website": "https://linktr.ee/tengo.todomarket?fbclid=PAZXh0bgNhZW0CMTEAAaciYzt3EQQZdCmkxFX7FHJ7Rpi81AYRbyPU1Qr4c3EOHPF9ZyMH7S2nziuRVA_aem_3BmSbBBliKA03pZnTg5L7A",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -288,6 +326,8 @@
         "Direccion": "El Tunco ",
         "Instagram": "https://www.instagram.com/krazy_papas/?hl=es",
         "Facebook": "https://www.facebook.com/people/Krazy-Papas-Surfcity/61563662577855/",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -308,6 +348,8 @@
         "Direccion": "El Cocal",
         "Instagram": "https://www.instagram.com/krazy_papas/?hl=es",
         "Facebook": "https://www.facebook.com/people/Krazy-Papas-Surfcity/61563662577855/",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -326,6 +368,10 @@
         "Categoria": "Retail",
         "SubCategoria": "Convenience store",
         "Direccion": "El Tunco",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -346,6 +392,8 @@
         "Direccion": "El Tunco",
         "Instagram": "https://www.instagram.com/daledalecafe/",
         "Facebook": "https://www.facebook.com/DaleDaleCafe/",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -366,6 +414,8 @@
         "Direccion": "El Tunco",
         "Instagram": "https://www.instagram.com/restaurantelabocanasv/?hl=es",
         "Facebook": "https://www.facebook.com/labocanaeltunco/?locale=es_LA",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -386,6 +436,7 @@
         "Direccion": "El Tunco ",
         "Instagram": "https://www.instagram.com/rocasunzal/?locale=ko&img_index=2",
         "Facebook": "https://www.facebook.com/rocasunzalhotel",
+        "Twitter": "",
         "Website": "https://rocasunzal.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -407,6 +458,8 @@
         "Direccion": "El Palmarcito",
         "Instagram": "https://www.instagram.com/theviewsresort/",
         "Facebook": "https://www.facebook.com/HotelInstagrammer/?locale=es_LA",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -426,6 +479,9 @@
         "SubCategoria": "Pupuseria",
         "Direccion": "EL Zonte",
         "Instagram": "https://www.instagram.com/pupuseria_jeisi/",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -446,6 +502,7 @@
         "Direccion": "EL Zonte",
         "Instagram": "https://www.instagram.com/los3hermanos.surf/",
         "Facebook": "https://www.facebook.com/los3hermanos.surf/?ref=_xav_ig_profile_page_web_bt#",
+        "Twitter": "",
         "Website": "https://www.los3hermanos.surf/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -467,6 +524,8 @@
         "Direccion": "EL Zonte",
         "Instagram": "https://www.instagram.com/hotelrancholokooresort/?hl=es",
         "Facebook": "https://www.facebook.com/HotelRanchoLokoo/?locale=es_LA",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -486,6 +545,8 @@
         "SubCategoria": "Hotel",
         "Direccion": "EL Zonte",
         "Instagram": "https://www.instagram.com/lacanasta_zonte/",
+        "Facebook": "",
+        "Twitter": "",
         "Website": "https://www.airbnb.com.sv/users/show/340694191?fbclid=PAZXh0bgNhZW0CMTEAAac74t5h1V2Hwi4_jbsDK9uyUfKA-bTtHUVFNkGRXr-pTXct2d6mb7Td4gom0Q_aem_Igi-AkTcQT1SzQSqdEnMnw&_set_bev_on_new_domain=1754970934_EAYjM0NzQ0NjhjMj",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -507,6 +568,7 @@
         "Direccion": "EL Zonte",
         "Instagram": "https://www.instagram.com/beachbreaksv/?hl=es",
         "Facebook": "https://www.facebook.com/beachbreaksv?locale=es_LA",
+        "Twitter": "",
         "Website": "https://thebeachbreak.wixsite.com/the-beach-break-hote?fbclid=PAZXh0bgNhZW0CMTEAAaeLWvUU9x6qed7653tFBn1zb9vZmobIKD5hn5wPszFSmJd1XBErvxYbeFAh5w_aem_iLr1fIi3WY-jp8csLf-jxQ",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -526,6 +588,10 @@
         "Categoria": "Retail",
         "SubCategoria": "Convenience store",
         "Direccion": "EL Zonte",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -544,6 +610,10 @@
         "Categoria": "Food & Beverage",
         "SubCategoria": "Pupuseria",
         "Direccion": "EL Zonte",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -563,6 +633,9 @@
         "SubCategoria": "Cafe",
         "Direccion": "EL Zonte",
         "Instagram": "https://www.instagram.com/katz.cafesv/",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -582,6 +655,9 @@
         "SubCategoria": "Hostel and surf shop",
         "Direccion": "EL Zonte",
         "Instagram": "https://www.instagram.com/casadesurfcanegue/?hl=es-la",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -600,6 +676,10 @@
         "Categoria": "Retail",
         "SubCategoria": "Corner store",
         "Direccion": "EL Zonte",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -618,6 +698,10 @@
         "Categoria": "Other",
         "SubCategoria": "Motorcycle rental",
         "Direccion": "EL Zonte",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -638,6 +722,7 @@
         "Direccion": "EL Zonte",
         "Instagram": "https://www.instagram.com/nantalcocina/?hl=es",
         "Facebook": "https://www.facebook.com/nantalcocina/?ref=_xav_ig_profile_page_web_bt#",
+        "Twitter": "",
         "Website": "https://nantalcocina.com/es/home-2/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -659,6 +744,7 @@
         "Direccion": "EL Zonte",
         "Instagram": "https://www.instagram.com/soyanutribar/?hl=es",
         "Facebook": "https://www.facebook.com/SoyaNB/",
+        "Twitter": "",
         "Website": "https://soyanutribar.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -679,6 +765,8 @@
         "SubCategoria": "Hotel",
         "Direccion": "EL Zonte",
         "Instagram": "https://www.instagram.com/mywavehouse/",
+        "Facebook": "",
+        "Twitter": "",
         "Website": "https://mywavehouse.com/?fbclid=PAZXh0bgNhZW0CMTEAAafvqJVhgBhEcRCIk-l4e27EujE7H8DM_buRfPDulMXp3UP2FYXsUS7FBJs3rQ_aem_dB_6a3T1GbReihRZ_U1dWQ",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -698,6 +786,10 @@
         "Categoria": "Retail",
         "SubCategoria": "Brewery ",
         "Direccion": "EL Zonte",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -715,8 +807,10 @@
         "Empresa": "Say Zonte, Spanish Learning",
         "Categoria": "Other",
         "SubCategoria": "Language school",
+        "Direccion": "",
         "Instagram": "https://www.instagram.com/say.zonte/",
         "Facebook": "https://www.facebook.com/say.zonte",
+        "Twitter": "",
         "Website": "https://sayzonte.com/contact/#contact",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -760,6 +854,7 @@
         "Direccion": "El Zonte ",
         "Instagram": "https://www.instagram.com/covanakitchen/",
         "Facebook": "https://www.facebook.com/CovanaKitchen/",
+        "Twitter": "",
         "Website": "https://www.purosurf.com/covana-kitchen/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -779,6 +874,10 @@
         "Categoria": "Food & Beverage",
         "SubCategoria": "Cafe",
         "Direccion": "El Zonte ",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -799,6 +898,7 @@
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/esencianativahotel",
         "Facebook": "https://www.facebook.com/esencianativahotel",
+        "Twitter": "",
         "Website": "esencianativa.com",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -819,6 +919,9 @@
         "SubCategoria": "Restaurant",
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/elzonte_bella_luna/",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -838,6 +941,9 @@
         "SubCategoria": "Cafe",
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/thesurfhub.sv/",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -856,6 +962,10 @@
         "Categoria": "Food & Beverage",
         "SubCategoria": "Hostal",
         "Direccion": "El Zonte",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -874,6 +984,10 @@
         "Categoria": "Retail",
         "SubCategoria": "Corner store",
         "Direccion": "El Zonte",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -893,6 +1007,9 @@
         "SubCategoria": "Restaurant",
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/palma.zonte/?hl=es",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -912,6 +1029,9 @@
         "SubCategoria": "Hotel",
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/lacanasta_zonte/",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -930,6 +1050,10 @@
         "Categoria": "Food & Beverage",
         "SubCategoria": "Restaurant",
         "Direccion": "El Zonte",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -950,6 +1074,7 @@
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/hotelmichanti/?hl=es",
         "Facebook": "https://es-la.facebook.com/hotelmichanti/",
+        "Twitter": "",
         "Website": "https://hotelmichanti.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -969,6 +1094,10 @@
         "Categoria": "Retail",
         "SubCategoria": "Convenience store",
         "Direccion": "El Zonte",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -987,6 +1116,10 @@
         "Categoria": "Other",
         "SubCategoria": "Car rental",
         "Direccion": "El Zonte",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1006,6 +1139,9 @@
         "SubCategoria": "Hotel",
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/ecosuites.sv/",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1025,6 +1161,7 @@
         "SubCategoria": "Restaurant",
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/olaspermanentes.elzonte/?next",
+        "Facebook": "",
         "Twitter": "https://twitter.com/OPermanentes",
         "Website": "https://olaspermanentes.surf/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -1047,6 +1184,7 @@
         "Direccion": "El Zonte",
         "Instagram": "http://instagram.com/gartenzonte",
         "Facebook": "http://www.facebook.com/gartenzonte",
+        "Twitter": "",
         "Website": "https://www.gartenzonte.com/garten",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1068,6 +1206,7 @@
         "Direccion": "El Zonte",
         "Instagram": "http://instagram.com/gartenzonte",
         "Facebook": "http://www.facebook.com/gartenzonte",
+        "Twitter": "",
         "Website": "https://www.gartenzonte.com/garten",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1089,6 +1228,8 @@
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/looking_good_surf_hotel/",
         "Facebook": "https://www.facebook.com/lookinggoodsurf/",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1108,6 +1249,9 @@
         "SubCategoria": "Corner store",
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/pointbreakcafe/reels/",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1127,6 +1271,8 @@
         "SubCategoria": "Restaurant",
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/lapalapasv/",
+        "Facebook": "",
+        "Twitter": "",
         "Website": "https://lapalapasv.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1148,6 +1294,7 @@
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/el_xalli",
         "Facebook": "https://www.facebook.com/elxallizonte/",
+        "Twitter": "",
         "Website": "https://www.elxalli.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1168,6 +1315,9 @@
         "SubCategoria": "Surf school",
         "Direccion": "Mizata",
         "Instagram": "https://www.instagram.com/mizatasurf_school/",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1186,6 +1336,10 @@
         "Categoria": "Food & Beverage",
         "SubCategoria": "Restaurant",
         "Direccion": "Mizata ",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1204,6 +1358,10 @@
         "Categoria": "Accomodation",
         "SubCategoria": "Hotel",
         "Direccion": "Mizata",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1222,6 +1380,10 @@
         "Categoria": "Food & Beverage",
         "SubCategoria": "Hotel and restaurant",
         "Direccion": "Mizata",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1240,6 +1402,10 @@
         "Categoria": "Accomodation",
         "SubCategoria": "Hotel",
         "Direccion": "Mizata",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1258,6 +1424,10 @@
         "Categoria": "Retail",
         "SubCategoria": "Convenience store",
         "Direccion": "Antiguo Cuscatlan",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1276,6 +1446,10 @@
         "Categoria": "Other",
         "SubCategoria": "Mechanic service",
         "Direccion": "La Cima",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1296,6 +1470,8 @@
         "Direccion": "Blvd. del Hipodromo",
         "Instagram": "https://www.instagram.com/santocoraje/",
         "Facebook": "https://www.facebook.com/santocorajecerveceria/",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1316,6 +1492,7 @@
         "Direccion": "El Tunco",
         "Instagram": "https://www.instagram.com/soyanutribar/?hl=es",
         "Facebook": "https://www.facebook.com/SoyaNB/",
+        "Twitter": "",
         "Website": "https://soyanutribar.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1337,6 +1514,7 @@
         "Direccion": "San Benito",
         "Instagram": "https://www.instagram.com/soyanutribar/?hl=es",
         "Facebook": "https://www.facebook.com/SoyaNB/",
+        "Twitter": "",
         "Website": "https://soyanutribar.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1358,6 +1536,8 @@
         "Direccion": "San Benito",
         "Instagram": "https://www.instagram.com/gourmandises.sv/?hl=es",
         "Facebook": "https://www.facebook.com/gourmandises.sv/?locale=es_LA",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1377,6 +1557,9 @@
         "SubCategoria": "Cafe",
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/caneguecafe/?hl=es",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1397,6 +1580,7 @@
         "Direccion": "San Benito",
         "Instagram": "https://www.instagram.com/kuzkotasteperu/?hl=es",
         "Facebook": "https://www.facebook.com/kuzkotasteperu?mibextid=qi2Omg&rdid=pCwPT4owDpXxbZrN&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FLtq8PhYRVPXjwR7f%2F%3Fmibextid%3Dqi2Omg#",
+        "Twitter": "",
         "Website": "https://linktr.ee/kuzkotasteperu?fbclid=PAZXh0bgNhZW0CMTEAAadgi4An9aTdC5wc_DTnXzS5_NUZSihtuzV6BzMIKf0FdOKmEy2qAXvzSgLrhQ_aem_XE-N4DLpfT4UxtF60cmVRg",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1418,6 +1602,7 @@
         "Direccion": "Santa Elena",
         "Instagram": "https://www.instagram.com/kuzkotasteperu/?hl=es",
         "Facebook": "https://www.facebook.com/kuzkotasteperu?mibextid=qi2Omg&rdid=pCwPT4owDpXxbZrN&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FLtq8PhYRVPXjwR7f%2F%3Fmibextid%3Dqi2Omg#",
+        "Twitter": "",
         "Website": "https://linktr.ee/kuzkotasteperu?fbclid=PAZXh0bgNhZW0CMTEAAadgi4An9aTdC5wc_DTnXzS5_NUZSihtuzV6BzMIKf0FdOKmEy2qAXvzSgLrhQ_aem_XE-N4DLpfT4UxtF60cmVRg",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1438,6 +1623,7 @@
         "SubCategoria": "Cafe",
         "Direccion": "San Benito",
         "Instagram": "https://www.instagram.com/cheritocafe.sv",
+        "Facebook": "",
         "Twitter": "https://x.com/CheritoCafe",
         "Website": "https://www.cheritocafe.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -1460,6 +1646,7 @@
         "Direccion": "San Benito",
         "Instagram": "https://www.instagram.com/goodbeans.sv/",
         "Facebook": "https://www.facebook.com/goodbeans.sv/",
+        "Twitter": "",
         "Website": "https://thegoodbeans.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1481,6 +1668,8 @@
         "Direccion": "La Mascota",
         "Instagram": "https://www.instagram.com/rejuvenesscenter",
         "Facebook": "https://www.facebook.com/rejuvenesscenter/",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1499,6 +1688,10 @@
         "Categoria": "Health",
         "SubCategoria": "Home Healthcare Service",
         "Direccion": "San Salvador",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1519,6 +1712,8 @@
         "Direccion": "Antiguo Cuscatlan",
         "Instagram": "https://www.instagram.com/unapenda.chakulasv/",
         "Facebook": "https://www.facebook.com/unapendachakula/?ref=_xav_ig_profile_page_web_bt#",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1538,6 +1733,9 @@
         "SubCategoria": "Law firm",
         "Direccion": "Apopa",
         "Instagram": "https://www.instagram.com/ahabogados.sv",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1557,6 +1755,8 @@
         "SubCategoria": "Knife sharpening",
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/beesharpsv/",
+        "Facebook": "",
+        "Twitter": "",
         "Website": "https://beesharpsv.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1598,7 +1798,10 @@
         "Categoria": "Other",
         "SubCategoria": "Car rental",
         "Direccion": "Gabriela Mistral",
+        "Instagram": "",
+        "Facebook": "",
         "Twitter": "https://x.com/PierreValiente1",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1619,6 +1822,8 @@
         "Direccion": "Colonia Escalon",
         "Instagram": "https://www.instagram.com/clinicads/",
         "Facebook": "https://www.facebook.com/disenandosonrisas/?locale=es_LA",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1638,6 +1843,9 @@
         "SubCategoria": "Dessert catering and delivery",
         "Direccion": "San Salvador",
         "Instagram": "https://www.instagram.com/vitalitysweetsbykarlap/",
+        "Facebook": "",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1656,6 +1864,9 @@
         "Categoria": "Food & Beverage",
         "SubCategoria": "Restaurant",
         "Direccion": "Teotepeque",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
         "Website": "https://www.chicuinaco.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1675,6 +1886,9 @@
         "Categoria": "Accomodation",
         "SubCategoria": "Hotel",
         "Direccion": "Teotepeque",
+        "Instagram": "",
+        "Facebook": "",
+        "Twitter": "",
         "Website": "https://www.chicuinaco.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1696,6 +1910,8 @@
         "Direccion": "Merliot",
         "Instagram": "https://www.instagram.com/iphonefixsv/?hl=es",
         "Facebook": "https://www.facebook.com/iPhoneFixsv/?locale=es_LA",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1716,6 +1932,8 @@
         "Direccion": "La Mascota",
         "Instagram": "https://www.instagram.com/vagon3ros_sv/",
         "Facebook": "https://www.facebook.com/Vagon3rossv/?locale=es_LA",
+        "Twitter": "",
+        "Website": "",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     },
@@ -1736,6 +1954,7 @@
         "Direccion": "Quinta San Julian",
         "Instagram": "https://www.instagram.com/restauranteacajutla/",
         "Facebook": "https://www.facebook.com/RestauranteAcajutla",
+        "Twitter": "",
         "Website": "https://restauranteacajutla.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1757,6 +1976,7 @@
         "Direccion": "Escalon",
         "Instagram": "https://www.instagram.com/restauranteacajutla/",
         "Facebook": "https://www.facebook.com/RestauranteAcajutla",
+        "Twitter": "",
         "Website": "https://restauranteacajutla.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1778,6 +1998,7 @@
         "Direccion": "San Benito",
         "Instagram": "https://www.instagram.com/restauranteacajutla/",
         "Facebook": "https://www.facebook.com/RestauranteAcajutla",
+        "Twitter": "",
         "Website": "https://restauranteacajutla.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1799,6 +2020,7 @@
         "Direccion": "Costa del Sol",
         "Instagram": "https://www.instagram.com/restauranteacajutla/",
         "Facebook": "https://www.facebook.com/RestauranteAcajutla",
+        "Twitter": "",
         "Website": "https://restauranteacajutla.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1820,6 +2042,7 @@
         "Direccion": "Ciudad Jardin",
         "Instagram": "https://www.instagram.com/restauranteacajutla/",
         "Facebook": "https://www.facebook.com/RestauranteAcajutla",
+        "Twitter": "",
         "Website": "https://restauranteacajutla.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1841,6 +2064,7 @@
         "Direccion": "Santa Elena",
         "Instagram": "https://www.instagram.com/restauranteacajutla/",
         "Facebook": "https://www.facebook.com/RestauranteAcajutla",
+        "Twitter": "",
         "Website": "https://restauranteacajutla.com/",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1862,6 +2086,7 @@
         "Direccion": "Apastepeque",
         "Instagram": "https://www.instagram.com/emec2.soporte/",
         "Facebook": "https://www.facebook.com/mitotoca/",
+        "Twitter": "",
         "Website": "https://treinta.shop/cafeteriaemec2?fbclid=PAZXh0bgNhZW0CMTEAAadlToHfsL8RSe3Bv1HQwv3P1lYwC7WKcacNCECkpa5KflqpGJd9-LCJX67VTA_aem_DZCm7msGaEDmoRBdtLE3DA",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
@@ -1882,6 +2107,7 @@
         "SubCategoria": "Bitcoin Hardware Store",
         "Direccion": "El Zonte",
         "Instagram": "https://www.instagram.com/tbhs_sv",
+        "Facebook": "",
         "Twitter": "https://x.com/tbhs_sv",
         "Website": "https://linktr.ee/TheBitcoinHardwareStore",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -1903,6 +2129,7 @@
         "SubCategoria": "Bitcoin Hardware Store",
         "Direccion": "Usulutan",
         "Instagram": "https://www.instagram.com/tbhs_sv",
+        "Facebook": "",
         "Twitter": "https://x.com/tbhs_sv",
         "Website": "https://linktr.ee/TheBitcoinHardwareStore",
         "FeaturedImage": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
