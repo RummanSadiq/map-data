@@ -5,16 +5,16 @@ compatibility_date = "2025-11-03"
 directory = "./public"
 
 # Add custom headers
-[[assets_headers]]
+    [[assets.headers]]
 path = "/data/*.geojson"
-[assets_headers.headers]
-Cache-Control = "public, max-age=300, must-revalidate"
-Access-Control-Allow-Origin = "*"
-Content-Type = "application/geo+json; charset=utf-8"
+    [assets.headers.headers]
+"Cache-Control" = "public, max-age=300, must-revalidate"
+"Access-Control-Allow-Origin" = "*"
+"Content-Type" = "application/geo+json; charset=utf-8"
 
-[[assets_headers]]
+    [[assets.headers]]
 path = "/data/tiles/*"
-[assets_headers.headers]
-Content-Type = "application/x-protobuf"
-Access-Control-Allow-Origin = "*"
-Cache-Control = "public, max-age=31536000, immutable"
+    [assets.headers.headers]
+"Content-Type" = "application/x-protobuf"
+"Access-Control-Allow-Origin" = "*"
+"Cache-Control" = "public, max-age=31536000, immutable"
