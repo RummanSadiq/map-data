@@ -8,14 +8,13 @@ directory = "./public"
 [[assets_headers]]
 path = "/data/*.geojson"
 [assets_headers.headers]
-"Cache-Control" = "public, max-age=300, must-revalidate"
-"Access-Control-Allow-Origin" = "*"
-"Content-Type" = "application/geo+json; charset=utf-8"
+Cache-Control = "public, max-age=300, must-revalidate"
+Access-Control-Allow-Origin = "*"
+Content-Type = "application/geo+json; charset=utf-8"
 
 [[assets_headers]]
 path = "/data/tiles/*"
 [assets_headers.headers]
-"Content-Type" = "application/x-protobuf"
-"Access-Control-Allow-Origin" = "*"
-"Cache-Control" = "public, max-age=31536000, immutable"
-"Content-Encoding" = ""
+Content-Type = "application/x-protobuf"
+Access-Control-Allow-Origin = "*"
+Cache-Control = "public, max-age=31536000, immutable"
