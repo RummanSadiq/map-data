@@ -2,15 +2,15 @@
 "name": "departments.mbtiles",
 "description": "departments.mbtiles",
 "version": "2",
-"minzoom": "0",
+"minzoom": "6",
 "maxzoom": "14",
-"center": "-88.802490,13.314794,14",
-"bounds": "-90.175781,13.132979,-87.683773,14.455958",
-"antimeridian_adjusted_bounds": "-90.175781,13.132979,-87.683773,14.455958",
+"center": "-89.527588,13.656663,14",
+"bounds": "-90.138016,13.143970,-87.683794,14.451304",
+"antimeridian_adjusted_bounds": "-90.138016,13.143970,-87.683794,14.451304",
 "type": "overlay",
-"strategies": "[{\"tiny_polygons\":1},{\"tiny_polygons\":1},{\"tiny_polygons\":1},{\"tiny_polygons\":1},{\"tiny_polygons\":1},{\"tiny_polygons\":1},{},{},{},{},{},{},{},{},{\"tiny_polygons\":1}]",
+"strategies": "[{},{},{},{},{},{},{},{},{},{},{},{},{},{},{\"tiny_polygons\":1}]",
 "format": "pbf",
 "generator": "tile-join v2.79.0",
-"generator_options": "tippecanoe -o departments.mbtiles --force -Z0 -z14 --drop-densest-as-needed --extend-zooms-if-still-dropping --no-tile-size-limit '--layer=departments' public/data/department.geojson; tile-join -e public/data/tiles departments.mbtiles",
-"json": "{\"vector_layers\":[{\"id\":\"departments\",\"description\":\"\",\"minzoom\":0,\"maxzoom\":14,\"fields\":{\"shapeGroup\":\"String\",\"shapeID\":\"String\",\"shapeISO\":\"String\",\"shapeName\":\"String\",\"shapeType\":\"String\"}}],\"tilestats\":{\"layerCount\":1,\"layers\":[{\"layer\":\"departments\",\"count\":6809,\"geometry\":\"Polygon\",\"attributeCount\":5,\"attributes\":[{\"attribute\":\"shapeGroup\",\"count\":1,\"type\":\"string\",\"values\":[\"SLV\"]},{\"attribute\":\"shapeID\",\"count\":14,\"type\":\"string\",\"values\":[\"98794003B16890138661932\",\"98794003B21631961307422\",\"98794003B28533173695218\",\"98794003B29271110155916\",\"98794003B29721732456698\",\"98794003B34340758390936\",\"98794003B3671241590115\",\"98794003B39565856515381\",\"98794003B42513633485886\",\"98794003B50968784291710\",\"98794003B56835012218806\",\"98794003B61781922911400\",\"98794003B62092818645437\",\"98794003B76410579323989\"]},{\"attribute\":\"shapeISO\",\"count\":1,\"type\":\"string\",\"values\":[\"\"]},{\"attribute\":\"shapeName\",\"count\":14,\"type\":\"string\",\"values\":[\"Ahuachapán\",\"Cabañas\",\"Chalatenango\",\"Cuscatlán\",\"La Libertad\",\"La Paz\",\"La Unión\",\"Morazán\",\"San Miguel\",\"San Salvador\",\"San Vicente\",\"Santa Ana\",\"Sonsonate\",\"Usulután\"]},{\"attribute\":\"shapeType\",\"count\":1,\"type\":\"string\",\"values\":[\"ADM1\"]}]}]}}"
+"generator_options": "tippecanoe -o departments.mbtiles --force '--maximum-zoom=14' '--minimum-zoom=6' --drop-densest-as-needed '--simplification=10' '--layer=departments' --coalesce-densest-as-needed --extend-zooms-if-still-dropping /Users/zohaibamir/Downloads/map-data/public/data/department.geojson; tile-join -e public/data/tiles departments.mbtiles",
+"json": "{\"vector_layers\":[{\"id\":\"departments\",\"description\":\"\",\"minzoom\":6,\"maxzoom\":14,\"fields\":{\"shapeGroup\":\"String\",\"shapeID\":\"String\",\"shapeISO\":\"String\",\"shapeName\":\"String\",\"shapeType\":\"String\"}}],\"tilestats\":{\"layerCount\":1,\"layers\":[{\"layer\":\"departments\",\"count\":6698,\"geometry\":\"Polygon\",\"attributeCount\":5,\"attributes\":[{\"attribute\":\"shapeGroup\",\"count\":1,\"type\":\"string\",\"values\":[\"SLV\"]},{\"attribute\":\"shapeID\",\"count\":14,\"type\":\"string\",\"values\":[\"98794003B16890138661932\",\"98794003B21631961307422\",\"98794003B28533173695218\",\"98794003B29271110155916\",\"98794003B29721732456698\",\"98794003B34340758390936\",\"98794003B3671241590115\",\"98794003B39565856515381\",\"98794003B42513633485886\",\"98794003B50968784291710\",\"98794003B56835012218806\",\"98794003B61781922911400\",\"98794003B62092818645437\",\"98794003B76410579323989\"]},{\"attribute\":\"shapeISO\",\"count\":1,\"type\":\"string\",\"values\":[\"\"]},{\"attribute\":\"shapeName\",\"count\":14,\"type\":\"string\",\"values\":[\"Ahuachapán\",\"Cabañas\",\"Chalatenango\",\"Cuscatlán\",\"La Libertad\",\"La Paz\",\"La Unión\",\"Morazán\",\"San Miguel\",\"San Salvador\",\"San Vicente\",\"Santa Ana\",\"Sonsonate\",\"Usulután\"]},{\"attribute\":\"shapeType\",\"count\":1,\"type\":\"string\",\"values\":[\"ADM1\"]}]}]}}"
 }
